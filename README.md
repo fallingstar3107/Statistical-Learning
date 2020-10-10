@@ -16,16 +16,16 @@
 <p align="center">
   M.Sc. in Business Analytics
 <p align="center">
-  Module MIS41090: Advanced Operations Research 
+  Module MIS41120: Statistical Learning 
 <p align="center">
   <a href="https://github.com/fallingstar3107/Statistical-Learning">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Universitycollegedublinlogo.png/138px-Universitycollegedublinlogo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Programming Graph algorithms</h3>
+  <h3 align="center">Practical Data Analysis</h3>
 
   <p align="center">
-   The purpose of this assignment is to use different data types to implement Dijkstra’s Shortest Path Algorithm, and apply this program to solve problems.
+   The purpose of this assignment is to apply Linear Regression, Logistic Regression, Support Vector Machine, MultiLayer Perceptron models with regularisation techniques (ridge regression, lasso, elastic net) on Boston Housing Price data set and default of credit card clients data set .
 
     
   </p>
